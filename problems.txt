@@ -1,0 +1,2 @@
+sudo mv google-chrome.list.1 google.listgoogle-chrome.list.1
+

@@ -5,3 +5,5 @@ nvidia uninstall
 git uninstall
 
 ros kinetic installed correctly!
+
+test

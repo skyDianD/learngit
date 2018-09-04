@@ -1,2 +1,7 @@
 sudo mv google-chrome.list.1 google.listgoogle-chrome.list.1
 
+nvidia uninstall
+
+git uninstall
+
+ros kinetic installed correctly!
